@@ -1,5 +1,8 @@
 # Hi, I'm Manuel H. Quiroga 👋
 
+<img src="https://github.com/ManuelQuiroga03/ManuelQuiroga03/blob/main/imgPerfil.JPG" alt="Profile Photo" width="200" height="250" style="object-fit: cover;"/>
+
+
 **Software Developer :computer:**
 
 I'm a resourceful and passionate Full Stack Developer with two years of experience in the design, development, and maintenance of web and desktop applications. With a strong background in computer engineering and a problem-solving mindset, I’ve demonstrated proficiency in various technologies and frameworks, with a proven ability to quickly adapt to new environments and technical challenges.
